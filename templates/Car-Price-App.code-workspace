@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Car-Price-App",
+			"path": ".."
+		},
+		{
+			"name": "Crop-Recommendation-System",
+			"path": "../../Crop-Recommendation-System"
+		}
+	],
+	"settings": {}
+}
